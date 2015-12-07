@@ -1,0 +1,320 @@
+{
+  "ID": "b8b96a8a-795c-40c6-bc89-d26c26741385",
+  "Version": "2.3.3.0",
+  "Name": "Node",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "45",
+            "PlaceHolderText": "",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 2,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 379.4944,
+              "Y": 42.8133
+            },
+            "Scale": {
+              "ScaleX": 3.484,
+              "ScaleY": 2.5813
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 329.4944,
+            "RightMargin": -429.4944,
+            "TopMargin": -52.8133,
+            "BottomMargin": 32.8133,
+            "Tag": 3,
+            "ActionTag": -1985134692,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "angle",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "角度：",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 111.9683,
+              "Y": 42.8133
+            },
+            "Scale": {
+              "ScaleX": 3.484,
+              "ScaleY": 2.5813
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 81.9683,
+            "RightMargin": -141.9683,
+            "TopMargin": -52.8133,
+            "BottomMargin": 32.8133,
+            "Tag": 3,
+            "ActionTag": -1391656032,
+            "Size": {
+              "X": 60.0,
+              "Y": 20.0
+            },
+            "Name": "text1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "9",
+            "PlaceHolderText": "",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 2,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 377.9973,
+              "Y": -19.3472
+            },
+            "Scale": {
+              "ScaleX": 3.484,
+              "ScaleY": 2.5813
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 327.9973,
+            "RightMargin": -427.9973,
+            "TopMargin": 9.3472,
+            "BottomMargin": -29.3472,
+            "Tag": 4,
+            "ActionTag": -509046730,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "force",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "力量：",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 112.2861,
+              "Y": -19.3473
+            },
+            "Scale": {
+              "ScaleX": 3.484,
+              "ScaleY": 2.5813
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 82.2861,
+            "RightMargin": -142.2861,
+            "TopMargin": 9.3473,
+            "BottomMargin": -29.3473,
+            "Tag": 5,
+            "ActionTag": -1453086751,
+            "Size": {
+              "X": 60.0,
+              "Y": 20.0
+            },
+            "Name": "text1_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "-2",
+            "PlaceHolderText": "",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 2,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 381.9502,
+              "Y": -81.5084
+            },
+            "Scale": {
+              "ScaleX": 3.484,
+              "ScaleY": 2.5813
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 331.9502,
+            "RightMargin": -431.9502,
+            "TopMargin": 71.5084,
+            "BottomMargin": -91.5084,
+            "Tag": 6,
+            "ActionTag": -1099367568,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "wind",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "风力：",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 114.4209,
+              "Y": -81.5084
+            },
+            "Scale": {
+              "ScaleX": 3.484,
+              "ScaleY": 2.5813
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 84.4209,
+            "RightMargin": -144.4209,
+            "TopMargin": 71.5084,
+            "BottomMargin": -91.5084,
+            "Tag": 7,
+            "ActionTag": -134718219,
+            "Size": {
+              "X": 60.0,
+              "Y": 20.0
+            },
+            "Name": "text1_1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}
