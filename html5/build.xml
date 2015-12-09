@@ -299,6 +299,7 @@
                 <file name="src/resource.js"/>
                 <file name="src/app.js"/>
                 <file name="src/scrollView.js"/>
+                <file name="src/MyScrollView.js"/>
                 <file name="main.js"/>
 
             </sources>
